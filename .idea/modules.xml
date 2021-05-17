@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ControleCurso.iml" filepath="$PROJECT_DIR$/.idea/ControleCurso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ControleCurso.iml" filepath="$PROJECT_DIR$/.idea/modules/ControleCurso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ControleCurso.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ControleCurso.app.iml" />
     </modules>
   </component>
 </project>
